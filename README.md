@@ -4,4 +4,13 @@
 
 RealRP is a garry's mod gamemode developed by me. Is a gamemode inspired of the famous gamemode [DarkRP](https://github.com/FPtje/DarkRP/) You can help me in the development of this by make pull requests.
 
+**Features**
+-----
+
+* Money system
+* Jobs
+* hunger system
+* 100% customizable
+* and more...
+
 **Note: This gamemode doesn't work for now.**
