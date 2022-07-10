@@ -13,4 +13,15 @@ RealRP is a garry's mod gamemode developed by me. Is a gamemode inspired of the 
 * 100% customizable
 * and more...
 
+**Screenhot**
+---
+
+soon
+
+**Credits**
+---
+
+* Major contributor:
+
+
 **Note: This gamemode doesn't work for now.**
