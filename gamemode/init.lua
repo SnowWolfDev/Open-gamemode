@@ -1,10 +1,10 @@
-hook.Run("RealRPStartLoading")
+hook.Run("DarkRPStartedLoading")
 
-GM.Version = "0.0.1"
-GM.Name = "RealRP"
-GM.Author = "By snow-_-wolf"
+GM.Version = "1.0.0"
+GM.Name = "DerivedRP"
+GM.Author = "By Harry, FPtje Falco et al."
 
-DeriveGamemode("sandbox")
-DEFINE_BASECLASS("gamemode_sandbox")
+DeriveGamemode("darkrp")
+DEFINE_BASECLASS("gamemode_darkrp")
 
-GM.Sandbox = BaseClass
+GM.DarkRP = BaseClass
