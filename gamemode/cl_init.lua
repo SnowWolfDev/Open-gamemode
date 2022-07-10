@@ -6,5 +6,5 @@ GM.Author = "By snow-_-wolf"
 
 DeriveGamemode("realrp")
 DEFINE_BASECLASS("gamemode_realrp")
-GM.DarkRP = BaseClass
+GM.RealRP = BaseClass
 
